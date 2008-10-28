@@ -1,6 +1,6 @@
 xstdcmap
 ------------------------------------------
-Xorg standard colormap utility
+X.Org standard colormap utility
 
 Runtime requirements:
   cygwin-1.5.20-1
