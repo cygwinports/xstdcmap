@@ -1,4 +1,0 @@
-category: X11
-requires: libX11_6 libXmu6
-sdesc: "X.Org standard colormap utility"
-ldesc: "X.Org standard colormap utility"
